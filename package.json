@@ -1,0 +1,22 @@
+{
+  "name": "ios-vlc-share-js",
+  "version": "1.0.0",
+  "description": "Opens automatically VLC's ftp webpage in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoidlessSeven7/iOS-VLC-Share-JS.git"
+  },
+  "author": "Alejandro Akbal",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/VoidlessSeven7/iOS-VLC-Share-JS/issues"
+  },
+  "homepage": "https://github.com/VoidlessSeven7/iOS-VLC-Share-JS#readme",
+  "dependencies": {
+    "open": "^6.4.0"
+  }
+}
