@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/VoidlessSeven7/iOS-VLC-Share-JS#readme",
   "dependencies": {
-    "open": "^6.4.0"
+    "open": "^7.0.2"
   }
 }
